@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/maria/OneDrive%20-%20Universidad%20de%20los%20andes/Analitica/proyecto%202/Proyecto-2-Analitica/mlruns/708587892149213858/e0305509d0924e98acc8e24f4b094e95/artifacts
+end_time: 1747839761745
+entry_point_name: ''
+experiment_id: '708587892149213858'
+lifecycle_stage: active
+run_id: e0305509d0924e98acc8e24f4b094e95
+run_name: gentle-koi-714
+run_uuid: e0305509d0924e98acc8e24f4b094e95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747839470820
+status: 3
+tags: []
+user_id: maria

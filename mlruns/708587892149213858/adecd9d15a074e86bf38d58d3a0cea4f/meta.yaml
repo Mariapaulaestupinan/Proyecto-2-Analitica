@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/maria/OneDrive%20-%20Universidad%20de%20los%20andes/Analitica/proyecto%202/Proyecto-2-Analitica/mlruns/708587892149213858/adecd9d15a074e86bf38d58d3a0cea4f/artifacts
+deleted_time: 1747841674105
+end_time: 1747838868616
+entry_point_name: ''
+experiment_id: '708587892149213858'
+lifecycle_stage: deleted
+run_id: adecd9d15a074e86bf38d58d3a0cea4f
+run_name: gaudy-cat-932
+run_uuid: adecd9d15a074e86bf38d58d3a0cea4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747838654917
+status: 4
+tags: []
+user_id: maria

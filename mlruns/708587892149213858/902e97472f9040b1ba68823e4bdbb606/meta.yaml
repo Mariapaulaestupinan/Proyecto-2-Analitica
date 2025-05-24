@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/maria/OneDrive%20-%20Universidad%20de%20los%20andes/Analitica/proyecto%202/Proyecto-2-Analitica/mlruns/708587892149213858/902e97472f9040b1ba68823e4bdbb606/artifacts
+deleted_time: 1747841674107
+end_time: 1747796594805
+entry_point_name: ''
+experiment_id: '708587892149213858'
+lifecycle_stage: deleted
+run_id: 902e97472f9040b1ba68823e4bdbb606
+run_name: placid-mole-446
+run_uuid: 902e97472f9040b1ba68823e4bdbb606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747796286145
+status: 3
+tags: []
+user_id: maria

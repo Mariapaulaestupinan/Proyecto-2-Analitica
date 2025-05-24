@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/maria/OneDrive%20-%20Universidad%20de%20los%20andes/Analitica/proyecto%202/Proyecto-2-Analitica/mlruns/708587892149213858/2333e3d78c7f4911a6566101433c7389/artifacts
+end_time: 1747842268625
+entry_point_name: ''
+experiment_id: '708587892149213858'
+lifecycle_stage: active
+run_id: 2333e3d78c7f4911a6566101433c7389
+run_name: tasteful-chimp-55
+run_uuid: 2333e3d78c7f4911a6566101433c7389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747841927646
+status: 3
+tags: []
+user_id: maria

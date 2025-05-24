@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/maria/OneDrive%20-%20Universidad%20de%20los%20andes/Analitica/proyecto%202/Proyecto-2-Analitica/mlruns/708587892149213858/2d54e1015fdd4769b3a655b2276c0a34/artifacts
+deleted_time: 1747841674184
+end_time: 1747793815401
+entry_point_name: ''
+experiment_id: '708587892149213858'
+lifecycle_stage: deleted
+run_id: 2d54e1015fdd4769b3a655b2276c0a34
+run_name: silent-rook-726
+run_uuid: 2d54e1015fdd4769b3a655b2276c0a34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747793187903
+status: 3
+tags: []
+user_id: maria
